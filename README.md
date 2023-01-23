@@ -15,3 +15,4 @@ Renting Page
 Payment page
 ![image](https://user-images.githubusercontent.com/108653998/214128044-6a9d5e34-ab84-426b-acab-23d33fdb4227.png)
 
+You can preview my website here https://hhb-udjg-bikesrental.netlify.app/
