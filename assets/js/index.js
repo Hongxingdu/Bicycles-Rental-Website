@@ -1,22 +1,4 @@
-/*------------------------------------------------------------------
 
-[Table of contents]
-1. Time picker
-2. car list style
-3. reservation links
-4. castum  selectop for price
-5.  accordion
-6. scroll menu
-7. dropdown animation
-8. home active care
-9. bootstrap select
-10. tabs
-11 Swipper
-12.Menu
-13 backround block with image
-14 map 
-15 Load resize
--------------------------------------------------------------------*/
 
 ;
 (function($, window, document, undefined) {
